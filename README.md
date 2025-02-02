@@ -1,7 +1,5 @@
 # Student-Registration-System
 
-# Student Registration System
-
 The **Student Registration System** is a desktop application developed using **Python**, **Tkinter**, and **MySQL**. It provides an intuitive GUI to manage student registrations, allowing users to add, update, view, and delete student records efficiently.
 
 ## 🚀 Features
